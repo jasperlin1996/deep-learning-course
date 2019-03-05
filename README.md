@@ -11,6 +11,7 @@
 [Week 2 Neural Network - HackMD](https://hackmd.io/FCsPDArdSByIV9Cj-HsmLg)
 
 [Week 3 Activation functions](https://hackmd.io/qUM_l1rOQWurvSz4e2-zdA)
+
 [Tensorflow(Keras) with Docker - HackMD](https://hackmd.io/_wgvInrlThSiypgKXTg3bg)
 
 [Keras - HackMD](https://hackmd.io/-lgyVJhiTA-4j7cOhbfB4w)
