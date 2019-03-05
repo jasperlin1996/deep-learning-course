@@ -1,5 +1,8 @@
 cats/
 tmp/
+.ipynb_checkpoints/
+*.cson
+boostnote.json
 test.ipynb
 start.bash
 .DS_Store
