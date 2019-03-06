@@ -20,4 +20,4 @@
 
 [GPU choice - HackMD](https://hackmd.io/FezWcFX-R-SrAuu_ycwtLQ)
 
-
+[Convolutional Neural Network](https://hackmd.io/0i0yBiVHQRa_TjBPKRUlPA)
