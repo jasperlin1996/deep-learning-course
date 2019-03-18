@@ -5,4 +5,6 @@ tmp/
 boostnote.json
 test.ipynb
 start.bash
+machine_learning/
+optimization algorithms.ipynb
 .DS_Store
