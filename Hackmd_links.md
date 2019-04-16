@@ -8,7 +8,7 @@
 
 [Week 3 Activation functions](https://hackmd.io/qUM_l1rOQWurvSz4e2-zdA)
 
-[Week 4](https://hackmd.io/Umb_YzkCSb6SKtRliXYM-g?both)
+[Week 4 Model Tuning and Optimizations](https://hackmd.io/Umb_YzkCSb6SKtRliXYM-g?both)
 
 [Tensorflow(Keras) with Docker - HackMD](https://hackmd.io/_wgvInrlThSiypgKXTg3bg)
 
