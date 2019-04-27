@@ -12,7 +12,9 @@
 
 [Week 3 Activation functions](https://hackmd.io/qUM_l1rOQWurvSz4e2-zdA)
 
-[Week 4 Model Tuning and Optimizations](https://hackmd.io/Umb_YzkCSb6SKtRliXYM-g?both)
+[Week 4 Model Tuning and Optimizations](https://hackmd.io/Umb_YzkCSb6SKtRliXYM-g)
+
+[Week 5 Convolutional Neural Network](https://hackmd.io/0i0yBiVHQRa_TjBPKRUlPA)
 
 [Tensorflow(Keras) with Docker - HackMD](https://hackmd.io/_wgvInrlThSiypgKXTg3bg)
 
@@ -25,5 +27,3 @@
 [Colab - HackMD](https://hackmd.io/LTOl-9q1R0m91l6J2WQAEg)
 
 [GPU choice - HackMD](https://hackmd.io/FezWcFX-R-SrAuu_ycwtLQ)
-
-[Convolutional Neural Network](https://hackmd.io/0i0yBiVHQRa_TjBPKRUlPA)
