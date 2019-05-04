@@ -12,6 +12,8 @@
 
 [Week 5 Convolutional Neural Network](https://hackmd.io/0i0yBiVHQRa_TjBPKRUlPA)
 
+[Week 6 CNN and YOLO](https://hackmd.io/GEECTNwQROqDDKdJzYOLOw)
+
 [Tensorflow(Keras) with Docker - HackMD](https://hackmd.io/_wgvInrlThSiypgKXTg3bg)
 
 [Keras - HackMD](https://hackmd.io/-lgyVJhiTA-4j7cOhbfB4w)
