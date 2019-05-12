@@ -18,6 +18,8 @@
 
 [Week 6 CNN and YOLO](https://hackmd.io/GEECTNwQROqDDKdJzYOLOw)
 
+[Week 7 Data and Transfer Learning](https://hackmd.io/kSXXqROZStiD3eFqLCrEnQ)
+
 [Tensorflow(Keras) with Docker - HackMD](https://hackmd.io/_wgvInrlThSiypgKXTg3bg)
 
 [Keras - HackMD](https://hackmd.io/-lgyVJhiTA-4j7cOhbfB4w)
